@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Perfil do GitHub encontra-se desatualizado, posteriormente irei atualizando-o.
+Thanks <3
 <!--
 **AllexandreVitor/AllexandreVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
