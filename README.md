@@ -29,8 +29,10 @@
 
 ### Onde estou 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F6815f&color:FFF)](https://www.linkedin.com/in/alexandrevitor/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F6815f&color:fff)](https://www.instagram.com/allexandrevitor/)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=instagram&logoColor=F6815f&color:333333)](https://www.instagram.com/allexandrevitor/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=F6815f&color:FFF)](https://www.linkedin.com/in/alexandrevitor/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=f61815f)](mailto:allexandrevitor.av@gmail.com)
 
 <!--
 **AllexandreVitor/AllexandreVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
