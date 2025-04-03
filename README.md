@@ -6,7 +6,7 @@
     <span>Alexandre Vitor</span>
 </h1>
 
-<p align="justify">Olá pessoal, me chamo Alexandre Vitor Rocha de Souza e sou um Full-Stack em desenvolvimento (sem pressão, por favor 😊). Faço Bacharelado em Ciências da Computação na [Universidade Federal Rural de Pernambuco - UFRPE](https://www.ufrpe.br). Desde a pandemia por motivo de força maior, acabei me ausentando da minha carreira acadêmica, fazendo com que perdesse o ritmo da minha área de atuação escolhida. Atualmente estou voltando com tudo para esse mundo, que é o mundo que eu quero fazer parte. Então no cenário atual estou seguindo a seguinte linha de raciocínio:
+<p align="justify">Olá pessoal, me chamo Alexandre Vitor Rocha de Souza e sou um Full-Stack em desenvolvimento (sem pressão, por favor 😊). Faço Bacharelado em Ciências da Computação na <a href="https://www.ufrpe.br/">Universidade Federal Rural de Pernambuco - UFRPE</a>. Desde a pandemia por motivo de força maior, acabei me ausentando da minha carreira acadêmica, fazendo com que perdesse o ritmo da minha área de atuação escolhida. Atualmente estou voltando com tudo para esse mundo, que é o mundo que eu quero fazer parte. Então no cenário atual estou seguindo a seguinte linha de raciocínio:
 
     me = Person()
     while(me.awake()):
