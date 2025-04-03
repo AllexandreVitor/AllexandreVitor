@@ -17,13 +17,18 @@
  
  Então é isso, aos poucos me tornarei aquilo que quero ser.</p>
 
+### 🛠️ Linguagens e ferramentas (aprendendo)
+<p><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+
+</p>
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 ### Onde estou 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F6815f&color:FFF)](https://www.linkedin.com/in/alexandrevitor/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F6815f&color:fff)](https://www.instagram.com/allexandrevitor/)
 
-Perfil do GitHub encontra-se desatualizado, posteriormente irei atualizando-o.
-Thanks <3
 
 <!--
 **AllexandreVitor/AllexandreVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
