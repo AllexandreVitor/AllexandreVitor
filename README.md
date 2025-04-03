@@ -1,8 +1,8 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Irritado Gamer Boy - www.freepik.com" height="380" src="">
 
 <h1>
-    <a href="https://elidianaandrade.github.io/">
-     <img align="center" alt="Logo Alexandre Vitor" width="36px" src="https://raw.githubusercontent.com/AllexandreVitor/AllexandreVitor/main/Imagens/Logo.A.V.png"></a>
+    <a href="">
+     <img align="center" alt="Logo Alexandre Vitor" width="36px" src="https://raw.githubusercontent.com/AllexandreVitor/AllexandreVitor/main/Imagens/Smartphone-GamerBoy.png"></a>
     <span>Alexandre Vitor</span>
 </h1>
 
