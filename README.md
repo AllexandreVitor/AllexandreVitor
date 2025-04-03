@@ -1,4 +1,4 @@
-<img align="right" alt="Irritado Gamer Boy - www.freepik.com" height="300" src="https://raw.githubusercontent.com/AllexandreVitor/AllexandreVitor/main/Imagens/Smartphone-GamerBoy.png">
+<img align="right" alt="Irritado Gamer Boy - www.freepik.com" height="380" src="https://raw.githubusercontent.com/AllexandreVitor/AllexandreVitor/main/Imagens/Smartphone-GamerBoy.png">
 
 <h1>
     <a href="">
